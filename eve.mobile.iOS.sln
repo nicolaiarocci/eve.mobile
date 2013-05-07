@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eve.mobile.iOS", "eve.mobile.iOS\eve.mobile.iOS.csproj", "{05822511-8456-42A3-B9D8-0FC38794341D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eve.mobile.Core.MT", "eve.mobile.Core\eve.mobile.Core.MT.csproj", "{ED87BEE5-DA79-4CFA-B15E-A2AADBF81CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05822511-8456-42A3-B9D8-0FC38794341D}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{05822511-8456-42A3-B9D8-0FC38794341D}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{05822511-8456-42A3-B9D8-0FC38794341D}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{05822511-8456-42A3-B9D8-0FC38794341D}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{05822511-8456-42A3-B9D8-0FC38794341D}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{05822511-8456-42A3-B9D8-0FC38794341D}.Debug|iPhone.Build.0 = Debug|iPhone
+		{05822511-8456-42A3-B9D8-0FC38794341D}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{05822511-8456-42A3-B9D8-0FC38794341D}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{05822511-8456-42A3-B9D8-0FC38794341D}.Release|iPhone.ActiveCfg = Release|iPhone
+		{05822511-8456-42A3-B9D8-0FC38794341D}.Release|iPhone.Build.0 = Release|iPhone
+		{05822511-8456-42A3-B9D8-0FC38794341D}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{05822511-8456-42A3-B9D8-0FC38794341D}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{ED87BEE5-DA79-4CFA-B15E-A2AADBF81CCE}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{ED87BEE5-DA79-4CFA-B15E-A2AADBF81CCE}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{ED87BEE5-DA79-4CFA-B15E-A2AADBF81CCE}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{ED87BEE5-DA79-4CFA-B15E-A2AADBF81CCE}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{ED87BEE5-DA79-4CFA-B15E-A2AADBF81CCE}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{ED87BEE5-DA79-4CFA-B15E-A2AADBF81CCE}.Debug|iPhone.Build.0 = Debug|iPhone
+		{ED87BEE5-DA79-4CFA-B15E-A2AADBF81CCE}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{ED87BEE5-DA79-4CFA-B15E-A2AADBF81CCE}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{ED87BEE5-DA79-4CFA-B15E-A2AADBF81CCE}.Release|iPhone.ActiveCfg = Release|iPhone
+		{ED87BEE5-DA79-4CFA-B15E-A2AADBF81CCE}.Release|iPhone.Build.0 = Release|iPhone
+		{ED87BEE5-DA79-4CFA-B15E-A2AADBF81CCE}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{ED87BEE5-DA79-4CFA-B15E-A2AADBF81CCE}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = eve.mobile.iOS\eve.mobile.iOS.csproj
+	EndGlobalSection
+EndGlobal
